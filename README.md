@@ -10,12 +10,12 @@ The `StringSession` is a secure and reusable session string that allows you to i
 
 1. **Node.js and npm**: Ensure you have [Node.js](https://nodejs.org/) installed.
 2. **Telegram Developer Account**: You must have a Telegram API ID and API Hash. Obtain these from the [Telegram Developer Portal](https://my.telegram.org/apps).
-3. **Dependencies**: Install the necessary Node.js packages listed below.
 
 ## Setup
 
 1. Clone the repository or download the script.
 2. fill out the info in the env file from your telegram dev account
+3. run npm install 
 
 ## run 
 1. to generate a StringSession variable run  `npm generate-session.js` and follow the prompts
